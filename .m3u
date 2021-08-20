@@ -1,5 +1,86 @@
 #EXTM3U
 
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3DdZHcX" group-title="Canais l Variedades",Canal Curta! HD
+http://maxptv.net:25461/du30/du30/213
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3DdZHcX" group-title="Canais l Variedades",Canal Curta! SD
+http://maxptv.net:25461/du30/du30/212
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/384FUxS" group-title="Canais l Variedades",Canal OFF HD
+http://maxptv.net:25461/du30/du30/209
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/384FUxS" group-title="Canais l Variedades",Canal OFF SD
+http://maxptv.net:25461/du30/du30/208
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/2W3E5iH" group-title="Canais l Variedades",Canal woohoo HD
+http://maxptv.net:25461/du30/du30/207
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/37XZUCz" group-title="Canais l Variedades",Discovery Home & Health FHD
+http://maxptv.net:25461/du30/du30/20265
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/37XZUCz" group-title="Canais l Variedades",Discovery Home & Health HD
+http://maxptv.net:25461/du30/du30/191
+
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/37XZUCz" group-title="Canais l Variedades",Discovery Home &
+Health SD
+http://maxptv.net:25461/du30/du30/190
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3y2Axdh" group-title="Canais l Variedades",Food Network HD
+http://maxptv.net:25461/du30/du30/158
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3y2Axdh" group-title="Canais l Variedades",Food Network SD
+http://maxptv.net:25461/du30/du30/159
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3mkwpmE" group-title="Canais l Variedades",Fox Life HD
+http://maxptv.net:25461/du30/du30/156
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3mkwpmE" group-title="Canais l Variedades",Fox Life SD
+http://maxptv.net:25461/du30/du30/155
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3mypt5N" group-title="Canais l Variedades",GNT HD
+http://maxptv.net:25461/du30/du30/139
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3mypt5N" group-title="Canais l Variedades",GNT SD
+http://maxptv.net:25461/du30/du30/138
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3APNf0S" group-title="Canais l Variedades",Mais Globosat HD
+http://maxptv.net:25461/du30/du30/117
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3APNf0S" group-title="Canais l Variedades",Mais Globosat SD
+http://maxptv.net:25461/du30/du30/116
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3kfBhah" group-title="Canais l Variedades",TLC HD
+http://maxptv.net:25461/du30/du30/23
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3kfBhah" group-title="Canais l Variedades",TLC SD
+http://maxptv.net:25461/du30/du30/22
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3y5EttU" group-title="Canais l Variedades",VIVA HD
+http://maxptv.net:25461/du30/du30/6
+
+
+#EXTINF:-1 type="stream" tvg-logo="https://bit.ly/3y5EttU" group-title="Canais l Variedades",VIVA SD
+http://maxptv.net:25461/du30/du30/5
+
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3ATWP2Q" group-title="FILMES|MARVEL",HOMEM DE FERRO
 http://ns2.zwatch.club/online/feral/dub/1726.mp4
 
