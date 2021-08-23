@@ -81,7 +81,7 @@ http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=8e438b7a03665442b9ebc1e
 http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
 #EXTINF:-1 type="stream" tvg-id="Band RJ HD" tvg-logo="https://i.ibb.co/jTh8TGk/B-Band-HD.png" group-title="TV Aberta",Band RJ HD
 http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
-#EXTINF:-1 type="stream" tvg-id="Band SP" tvg-logo="https://i.ibb.co/jZh58mR/B-Band-SD.png" group-title="TV Aberta",Band SP
+#EXTINF:-1 type="stream" tvg-id="Band SP" tvg-logo="https://i.ibb.co/jZh58mR/B-Band-SD.png" group-title="TV Aberta",Band sp
 http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
 #EXTINF:-1 type="stream" tvg-id="Band SP HD" tvg-logo="https://i.ibb.co/jTh8TGk/B-Band-HD.png" group-title="TV Aberta",Band SP HD
 http://lb.kstream.org/aovivo/HD_BAND_SP/video.m3u8?token=8e438b7a03665442b9ebc1ebd0f936f2
